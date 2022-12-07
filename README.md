@@ -1,1 +1,1 @@
-# msu-mbs-bc63-panida-001
+# msu-mbs-bc63-panida-lab001
